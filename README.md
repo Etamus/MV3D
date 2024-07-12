@@ -6,21 +6,14 @@
 
 The newest version of the plugin can be found at itch.io or patreon.
 
-https://www.patreon.com/cutievirus  
-https://cutievirus.itch.io/mv3d  
-https://cutievirus.itch.io/mz3d  
-
 A 3D rendering plugin for RPG Maker MV.
 
 Requires version 1.6 of RPG Maker MV.  
 
 If you are making a game with this plugin, please consider supporting my
-patreon.  
-https://www.patreon.com/cutievirus  
+patreon.   
 You can also unlock some patron-only features by becoming a patron, such as
 Dynamic Shadows.  
-
-Discord: http://cutievirus.com/discord
 
 ## Getting started
 
